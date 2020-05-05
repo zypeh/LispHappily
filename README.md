@@ -1,2 +1,1 @@
-# LispHappily
-A Happy compiler
+# lispHappily
